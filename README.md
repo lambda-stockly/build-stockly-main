@@ -7,8 +7,13 @@ Link to TDD (Google Doc) : https://docs.google.com/document/d/1_lU90vlTVCX59-t7i
 Current Active Deploys:
 
 Marketing (Reed):
+
 Marketing (Isaac): 
-FE (): 
+
+FE ():
+
 BE (William): https://stockly-backend.herokuapp.com/
+
 DS (Derek and Chris): https://dsstockly.herokuapp.com/
+
 Link to Sprint Retroactive: 
