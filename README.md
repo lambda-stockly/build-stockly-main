@@ -9,6 +9,6 @@ Current Active Deploys:
 Marketing (Reed):
 Marketing (Isaac): 
 FE (): 
-BE (William): 
-DS (Derek and Chris): 
+BE (William): https://stockly-backend.herokuapp.com/
+DS (Derek and Chris): https://dsstockly.herokuapp.com/
 Link to Sprint Retroactive: 
