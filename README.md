@@ -6,11 +6,13 @@ Link to TDD (Google Doc) : https://docs.google.com/document/d/1_lU90vlTVCX59-t7i
 
 Current Active Deploys:
 
-Marketing (Reed):
+Marketing (Reed):  https://stocklybuildweek.netlify.com/index.html
 
-Marketing (Isaac): 
+Marketing (Isaac): https://getstockly.netlify.com/
 
-FE ():
+Marketing (Wiliam): https://will-stockly-marketing.netlify.com/
+
+Front-End (Jon and Ruben): https://stockly-fe.netlify.com/
 
 BE (William): https://stockly-backend.herokuapp.com/
 
