@@ -18,4 +18,4 @@ BE (William): https://stockly-backend.herokuapp.com/
 
 DS (Derek and Chris): https://dsstockly.herokuapp.com/
 
-Link to Sprint Retroactive: 
+Link to Sprint Retroactive: https://docs.google.com/document/d/1jTbYX8hWdJW9nf2mLcrZ9HVEvtIqBuJZHSkM0wCdFfg/edit?usp=sharing
