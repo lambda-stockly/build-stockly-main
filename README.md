@@ -19,3 +19,6 @@ BE (William): https://stockly-backend.herokuapp.com/
 DS (Derek and Chris): https://dsstockly.herokuapp.com/
 
 Link to Sprint Retroactive: https://docs.google.com/document/d/1jTbYX8hWdJW9nf2mLcrZ9HVEvtIqBuJZHSkM0wCdFfg/edit?usp=sharing
+
+
+Stretch (For Kai): Turn this repo into a full stack app, with Issac's Marketing page, the Front-End, and Backend all encapsulated into this one repo, to be run on anyone's computer. Also, learn how the models from the DS backend were written.
